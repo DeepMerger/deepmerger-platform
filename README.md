@@ -1,10 +1,10 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/deepmerger/deepmerger-brand/main/assets/logo-dark.svg" width="64" height="64" alt="DeepMerger" />
+<img src="https://raw.githubusercontent.com/deepmerger/deepmerger-brand/main/assets/logo/logo-dark.svg" width="64" height="64" alt="DeepMerger" />
 
 # deepmerger-platform
 
-**The Common Operating Picture. One screen. Zero noise.**
+**The Common Operating Picture. One screen.**
 
 [![Status](https://img.shields.io/badge/status-active%20development-00C9A7?style=flat-square)](https://github.com/deepmerger/deepmerger-platform)
 [![TRL](https://img.shields.io/badge/TRL-4%20→%206-0D1B2A?style=flat-square)](https://github.com/deepmerger/deepmerger-platform)
